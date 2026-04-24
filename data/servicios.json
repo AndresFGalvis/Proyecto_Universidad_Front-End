@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Desarrollo Web Pro",
+    "descripcion": "Domina HTML5, CSS3 y JavaScript desde cero hasta nivel profesional.",
+    "imagen": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500"
+  },
+  {
+    "id": 2,
+    "nombre": "Estrategias de IA",
+    "descripcion": "Aprende a implementar Inteligencia Artificial en tus negocios para el éxito.",
+    "imagen": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=500"
+  }
+]
